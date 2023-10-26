@@ -1,7 +1,7 @@
 ---
 identifier: ps5
 name: PS5
-price: 30.00
+price: 349.00
 image: /assets/images/ps5.pjpg
 title: ToyStore - Teddy Bear
 ---
